@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (5.1.0)
+  - AppCenter (3.2.0):
+    - AppCenter/Analytics (= 3.2.0)
+    - AppCenter/Crashes (= 3.2.0)
+  - AppCenter/Analytics (3.2.0):
+    - AppCenter/Core
+  - AppCenter/Core (3.2.0)
+  - AppCenter/Crashes (3.2.0):
+    - AppCenter/Core
+  - MobileVLCKit (3.3.11)
+  - ObjectMapper (3.5.2)
+  - SwiftKeychainWrapper (3.4.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AppCenter
+  - MobileVLCKit
+  - ObjectMapper
+  - SwiftKeychainWrapper
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AppCenter
+    - MobileVLCKit
+    - ObjectMapper
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  AppCenter: ca66175050d538b157959382dd43f1ab96cdab84
+  MobileVLCKit: 8b7f955e96686d3aea9660fd711215ea34bcebc8
+  ObjectMapper: b53ae947d370bf89423e86be7d4e2d2b2a8d3f40
+  SwiftKeychainWrapper: 6fc49fbf7d4a6b0772917acb0e53a1639f6078d6
+
+PODFILE CHECKSUM: 3a8536e7dc11608cc33386b3350304e34ee038bb
+
+COCOAPODS: 1.9.1

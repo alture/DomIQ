@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Снять с охраны.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

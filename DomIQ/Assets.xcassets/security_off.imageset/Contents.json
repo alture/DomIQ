@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Поставить на охрану.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
